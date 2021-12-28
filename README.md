@@ -11,3 +11,5 @@
 5. 使用yoman进行代码生成，yo xueyou-blog
 6. 修改项目的templates为自己的project name
 7. 启动项目，请参考里面 START.md
+
+8. 请在根目录添加 .nojekyll 文件，否则github page 会有问题

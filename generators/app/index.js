@@ -7,5 +7,6 @@ module.exports = class extends Generator {
   writing () {
     // 我们使用 Generator 提供的 fs 模块尝试往目录中写入文件
     this.fs.copy(this.templatePath('xueyou-templates/**'), this.destinationPath(''));
+    this.fs.copy(this.templatePath('xueyou-templates/.nojekyll'), this.destinationPath(''));
   }
 };
