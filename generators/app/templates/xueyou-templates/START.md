@@ -1,12 +1,13 @@
 # 启动
 
-```
-npm i docsify-cli -g
+```js
+$ npm i docsify-cli -g
 
-docsify init projectName
+$ docsify init [projectName] // 初始化的时候使用的
 
-docsify serve xueyou-template
+$ cd ..
 
+$ docsify serve [projectName]  // 请在根目录外层执行
 ```
 
 # 文档
