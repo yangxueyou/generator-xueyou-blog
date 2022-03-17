@@ -5,7 +5,7 @@
 # 使用
 
 1. 安装yo，npm i -g yo,脚手架是基于yoman写的，
-2. 安装生成器，npm i -g generator-xueyou-blog@1.0.3
+2. 安装生成器，npm i -g generator-xueyou-blog
 3. 创建项目目录，mkdir [your project name]
 4. 进入项目目录，cd [your project name]
 5. 使用yoman进行代码生成，yo xueyou-blog
